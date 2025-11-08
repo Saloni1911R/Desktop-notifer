@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Study for BEE exam",
+    "time": "20:30"
+  },
+  {
+    "id": 2,
+    "title": "Drink water",
+    "time": "21:00"
+  },
+  {
+    "id": "task1",
+    "title": "Submit assignment",
+    "due_soon": true,
+    "completed": false
+  },
+  {
+    "id": "task2",
+    "title": "Prepare for exam",
+    "due_soon": true,
+    "completed": false
+  },
+  {
+    "id": "task3",
+    "title": "Buy project materials",
+    "due_soon": false,
+    "completed": false
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "task1",
+    "title": "Submit assignment",
+    "due_soon": true,
+    "completed": false
+  },
+  {
+    "id": "task2",
+    "title": "Prepare for exam",
+    "due_soon": true,
+    "completed": false
+  },
+  {
+    "id": "task3",
+    "title": "Buy project materials",
+    "due_soon": false,
+    "completed": false
+  }
+]
